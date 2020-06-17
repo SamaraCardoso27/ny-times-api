@@ -1,1 +1,1 @@
-# ny-times-api
+# New York Times API with Python
